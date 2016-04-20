@@ -1,4 +1,4 @@
-# Johns Hopkins Center for Talented Youth (CTY) - Robotics-2010
+# Johns Hopkins Center for Talented Youth (CTY) - Robotics 2010
 
 
 These are materials from a intensive summer course in robotics for gifted and talented students at Johns Hopkins' Center for Talented Youth (CTY)
